@@ -32,7 +32,7 @@ Densevolvimento de uma Api Básica desenvolvida em NodeJs com NestJs.
 
 ## Screen
 
-![Alt Text](https://github.com/felsantiago/book-api/assets/screen/bookApi.gif)
+![Alt Text](https://github.com/felsantiago/book-api/blob/master/assets/screen/bookApi.gif)
 
 ## Instalação
 
